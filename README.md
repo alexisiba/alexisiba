@@ -17,8 +17,6 @@ I have collaborated on:
 
 I am currently looking to continue growing as a **Front End Developer**, while staying open to projects where I can also contribute with my **Full Stack** perspective.
 
----
-
 ## 🚀 Technologies I Use
 
 ### 🖥️ Frontend
@@ -48,18 +46,6 @@ I am currently looking to continue growing as a **Front End Developer**, while s
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
----
-
-## 📚 Currently Learning
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Angular](https://skillicons.dev/icons?i=angular)
-![Express.js](https://skillicons.dev/icons?i=expressjs)
-
----
-
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/your-linkedin)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
