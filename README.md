@@ -6,7 +6,7 @@ Hello! I’m a **Front End Developer** passionate about building modern, intuiti
 
 ## About Me
 
-With over **6 years of experience in software development**, I have worked on projects for **international companies** and **local startups**, taking roles as Frontend, Mobile, and Full-Stack Developer.
+With over **8 years of experience in software development**, I have worked on projects for **international companies** and **local startups**, taking roles as Frontend, Mobile, and Full-Stack Developer.
 
 I have collaborated on:
 
