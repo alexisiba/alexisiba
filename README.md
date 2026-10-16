@@ -10,6 +10,7 @@ With over **8 years of experience in software development**, I have worked on pr
 
 I have collaborated on:
 
+- 🏥 **Athenahealth** – frontend development in a React monorepo with GraphQL and an internal design system.
 - ✈️ **Alaska Airlines** – support and development on internal libraries.
 - 💻 **Ooma (Through Density Labs)** – scalable web applications focused on quality and performance.
 - 📱 **DG Select** – leading a team of 5 developers on hybrid mobile apps.
